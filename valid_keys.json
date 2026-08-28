@@ -1,7 +1,0 @@
-{
-  "keys": [
-    "FREE-KEY-12345678901234",
-    {"key": "PREMIUM-ABC123DEFGHIJ", "hwid": "", "expires": 1767225600},
-    {"key": "VIP-XYZ789UVWXYZZ", "hwid": "PUT_CLIENT_ID_HERE", "expires": 1767225600}
-  ]
-}
