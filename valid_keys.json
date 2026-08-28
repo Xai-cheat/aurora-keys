@@ -1,7 +1,7 @@
 {
   "keys": [
-    "FREE-KEY-12345678901234",
+    "FREE-KEY-AURORA",
     {"key": "PREMIUM-ABC123DEFGHIJ", "hwid": "", "expires": 1767225600},
-    {"key": "VIP-XYZ789UVWXYZZ", "hwid": "PUT_CLIENT_ID_HERE", "expires": 1767225600}
+    {"key": "VIP-XYZ789UVWXYZZ", "hwid": "2050138508", "expires": 1767225600}
   ]
 }
